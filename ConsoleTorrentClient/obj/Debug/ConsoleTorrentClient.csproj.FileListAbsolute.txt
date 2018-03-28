@@ -1,0 +1,2 @@
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\ConsoleTorrentClient\ConsoleTorrentClient\obj\Debug\ConsoleTorrentClient.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\ConsoleTorrentClient\ConsoleTorrentClient\obj\Debug\ConsoleTorrentClient.csproj.CoreCompileInputs.cache
